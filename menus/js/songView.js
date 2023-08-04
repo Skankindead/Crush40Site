@@ -113,7 +113,8 @@ Close my eyes and feel it burn - Now I see what I've gotta do</p>
             { id: "mgc19" },
             { id: "tmg19" },
             { id: "sega60th" },
-            { id: "symphony" }
+            { id: "symphony" },
+            { id: "aex" }
         ],
 	versionGroups: [
             {
@@ -847,7 +848,8 @@ Live and Learn - You may never find your way</p>
             { id: "mgc19" },
             { id: "tmg19" },
             { id: "sega60th" },
-            { id: "symphony" }
+            { id: "symphony" },
+            { id: "aex" }
         ],
         versionGroups: [
             {
@@ -1149,7 +1151,8 @@ Setting the stage for a heroes parade</p>
             { id: "jgmf18" },
             { id: "tmg18" },
             { id: "tmg19" },
-            { id: "symphony" }
+            { id: "symphony" },
+            { id: "aex" }
         ],
         versionsBg: 'Crush40_MotionBlur.png'
     },
@@ -1231,7 +1234,8 @@ Let me show you just what I'm made of</p>
             { id: "jgmf18" },
             { id: "tmg18" },
             { id: "mgc19" },
-            { id: "tmg19" }
+            { id: "tmg19" },
+            { id: "aex" }
         ],
         versionGroups: [
             {
@@ -1397,7 +1401,8 @@ I am... I'm all of me...</p>
             { id: "tmg18" },
             { id: "mgc19" },
             { id: "tmg19" },
-            { id: "symphony" }
+            { id: "symphony" },
+            { id: "aex" }
         ],
         versionGroups: [
             {
@@ -1569,6 +1574,7 @@ And I'll never turn back...</p>
             { id: "jgmf18" },
             { id: "tmg18" },
             { id: "tmg19" },
+            { id: "aex" }
         ],
         versionsBg: 'SSSBackground.png'
     },
@@ -1673,6 +1679,111 @@ In one single hand</p>
             { id: "t11" },
             { id: "t12" }
         ],
+        versionGroups: [
+            {
+                credits: [
+                    { t: "Composition", n: "Kenichi Tokoi" },
+                    { t: "Lyrics", n: "runblebee" },
+                    { t: "Production", n: `Atsushi "Sushi" Kosugi (Beat On Beat, inc.)` },
+                    { t: "Vocals", n: "Steve Conte" },
+                    { t: "Guitars", n: "Oz Noy & Chewtaro Moritake" },
+                    { t: "Bass", n: "Will Lee" },
+                    { t: "Drums", n: "Clint De Ganon" }
+                ],
+                versions: [
+                    { 
+                        fanName: "Beta ver.", 
+                        long: "This early version of Seven Rings In Hand has no effects on the vocals, and guitar/sitar (whatever it is) during the chorus is absent. The female vocals are also different.", 
+                        appearances: [ "Sonic and the Secret Rings Trailer" ] 
+                    },
+                    { 
+                        fanName: "Main ver.",
+                        inGame: true,
+                        long: "The full song.", 
+                        appearances: [ `Sonic and the Secret Rings`,
+                            `Seven Rings In Hand - Sonic and the Secret Rings Original Sound Track`,
+                            `Sonic and the Secret Rings Game Soundtrack`,
+                            `Sonic and the Secret Rings Original Soundtrack vol.1`,
+                            `True Blue - The Best of Sonic the Hedgehog`,
+                            `History of Sonic Music 20th Anniversary Edition` ] 
+                    },
+                    { 
+                        fanName: "Mission Clear", 
+                        inGame: true,
+                        long: "A short edit of Seven Rings In Hand that plays when you clear a mission in Sonic and the Secret Rings.", 
+                        appearances: [ "Sonic and the Secret Rings" ] 
+                    }
+                ]
+            },
+            {
+                credits: [
+                    { t: "Composition", n: "Kenichi Tokoi" },
+                    { t: "Lyrics", n: "runblebee" },
+                    { t: "Production", n: `Atsushi "Sushi" Kosugi (Beat On Beat, inc.)` },
+                    { t: "Guitars", n: "Oz Noy & Chewtaro Moritake" },
+                    { t: "Bass", n: "Will Lee" },
+                    { t: "Drums", n: "Clint De Ganon" }
+                ],
+                versions: [
+                    { 
+                        fanName: "Mission Fail",
+                        inGame: true, 
+                        long: "A short, instrumental edit of Seven Rings In Hand that plays when you fail a mission in Sonic and the Secret Rings.", 
+                        appearances: [ "Sonic and the Secret Rings" ] 
+                    }
+                ]
+            },
+            {
+                credits: [
+                    { t: "Composition", n: "Kenichi Tokoi" },
+                    { t: "Guitars", n: "Chewtaro Moritake" },
+                ],
+                versions: [
+                    { 
+                        officialName: "The Promise", 
+                        inGame: true,
+                        long: "A short, acoustic version of Seven Rings In Hand.", 
+                        appearances: [ `Sonic and the Secret Rings`,
+                            `Seven Rings In Hand - Sonic and the Secret Rings Original Sound Track` ] 
+                    }
+                ]
+            },
+            {
+                credits: [
+                    { t: "Composition", n: "Kenichi Tokoi" },
+                    { t: "Arrangement", n: `Jun Senoue` },
+                    { t: "Lyrics", n: "runblebee" },
+                    { t: "Vocals", n: "Johnny Gioeli" },
+                    { t: "Guitars & Programming", n: "Jun Senoue" },
+                    { t: "Bass", n: "Takeshi Taneda" },
+                    { t: "Drums", n: "Toru Kawamura" }
+                ],
+                versions: [
+                    { 
+                        officialName: "Crush 40 ver.", 
+                        long: "Crush 40's cover of Seven Rings In Hand.", 
+                        appearances: [ `True Blue - The Best Of Sonic the Hedgehog`,
+                            `Sonic and the Black Knight`,
+                            `The Best Of Crush 40 - Super Sonic Songs	[NOTE: As a bonus track on the digital release]` ] 
+                    }
+                ]
+            },
+            {
+                credits: [
+                    { t: "Performed by", n: "Bentley Jones" },
+                    { t: "Composition", n: "Kenichi Tokoi" },
+                    { t: "Lyrics", n: "runblebee" },
+                    { t: "Production & Arrangement", n: `Bentley Jones` },
+                ],
+                versions: [
+                    { 
+                        officialName: "Fairytales in Trance", 
+                        long: "Bentley Jones's cover of Seven Rings In Hand.", 
+                        appearances: [ "Face To Faith: Sonic and the Black Knight - Vocal Trax" ] 
+                    }
+                ]
+            },
+        ],
         versionsBg: 'SSSBackground.png'
     },
     kotw: {
@@ -1747,7 +1858,9 @@ I'm the knight of the wind...</p>
             { id: "youmacon15" },
             { id: "sonic25th" },
             { id: "sos16" },
-            { id: "symphony" }
+            { id: "jgmf18", d: "Featuring a real violinist!" },
+            { id: "symphony" },
+            { id: "aex" }
         ],
         versionsBg: 'Crush40_MotionBlur.png'
     },
@@ -1793,6 +1906,28 @@ Power</p>
         },
         performances: [
 		//lmao nothing
+        ],
+        versionGroups: [
+            {
+                credits: [
+                    { t: "Composition & Arrangement", n: "Jun Senoue" },
+                    { t: "Lyrics", n: "Johnny Gioeli" },
+                    { t: "Vocals", n: "Johnny Gioeli" },
+                    { t: "Guitars", n: "Jun Senoue" },
+                    { t: "Bass", n: "Takeshi Taneda" },
+                    { t: "Drums", n: "Bobby Jarzombek" }
+                ],
+                versions: [
+                    { 
+                        fanName: "Main ver.", 
+                        inGame: true,
+                        long: "This is the only version of Through The Fire.", 
+                        appearances: [ "Sonic and the Black Knight",
+                            `Face To Faith: Sonic and the Black Knight - Vocal Trax`,
+                            `Sonic and the Black Knight Original Soundtrack vol.1` ] 
+                    },
+                ]
+            },
         ],
         versionsBg: 'Crush40_MotionBlur.png'
     },
@@ -1849,6 +1984,66 @@ And I'm alive... my will to survive</p>
         },
         performances: [
             { id: "t12" }
+        ],
+        versionGroups: [
+            {
+                credits: [
+                    { t: "Composition & Arrangement", n: "Jun Senoue" },
+                    { t: "Additional String Arrangement", n: "Richard Jacques" },
+                    { t: "Guitars", n: "Jun Senoue" },
+                    { t: "Bass", n: "Takeshi Taneda" },
+                    { t: "Drums", n: "Toru Kawamura" },
+                    { t: "Programming", n: "Richard Jacques" }
+                ],
+                versions: [
+                    { 
+                        officialName: "Strings Mix", 
+                        inGame: true,
+                        long: "The Strings Mix of Fight The Knight has programmed strings as lead, instead of vocals.", 
+                        appearances: [ "Sonic and the Black Knight",
+                            `Tales of the Knighthood: Sonic and the Black Knight - Original Soundtrax`,
+                            `Sonic and the Black Knight Original Soundtrack vol.1` ] 
+                    },
+                ]
+            },
+            {
+                credits: [
+                    { t: "Composition & Arrangement", n: "Jun Senoue" },
+                    { t: "Lyrics", n: "Johnny Gioeli" },
+                    { t: "Additional String Arrangement", n: "Richard Jacques" },
+                    { t: "Vocals", n: "Johnny Gioeli" },
+                    { t: "Guitars", n: "Jun Senoue" },
+                    { t: "Bass", n: "Takeshi Taneda" },
+                    { t: "Drums", n: "Toru Kawamura" },
+                    { t: "Programming", n: "Richard Jacques" }
+                ],
+                versions: [
+                    { 
+                        fanName: "Main ver.", 
+                        inGame: true,
+                        long: "This is the version of Fight The Knight with vocals.", 
+                        appearances: [ "Sonic and the Black Knight",
+                            `Face To Faith: Sonic and the Black Knight - Vocal Trax`,
+                            `Sonic and the Black Knight Original Soundtrack vol.1` ] 
+                    },
+                ]
+            },
+            {
+                credits: [
+                    { t: "Composition & Arrangement", n: "Yutaka Minobe" },
+                    { t: "Programming", n: "Yutaka Minobe" },
+                ],
+                versions: [
+                    { 
+                        officialName: "The Sacred Sword Caliburn... Meet the King Arthur", 
+                        inGame: true,
+                        long: "This track plays in the cutscene before the first King Arthur fight. It was also used as the intro for Fight The Knight during the Live! concert.", 
+                        appearances: [ "Sonic and the Black Knight",
+                            `Tales of the Knighthood: Sonic and the Black Knight - Original Soundtrax`,
+                            `Sonic and the Black Knight Original Soundtrack vol.1` ] 
+                    },
+                ]
+            },
         ],
         versionsBg: 'Crush40_MotionBlur.png'
     },
@@ -1997,8 +2192,7 @@ Live Life...</p>
         },
         performances: [
             { id: "sos12" },
-            { id: "twoNights" },
-            { id: "jgmf18", d: "Featuring a real violinist!" },
+            { id: "twoNights" }
         ],
         versionsBg: 'SSSBackground.png'
     },
@@ -2067,6 +2261,26 @@ is it you... oh... Is it you</p>
         },
         performances: [
             
+        ],
+        versionGroups: [
+            {
+                credits: [
+                    { t: "Composition & Arrangement", n: "Jun Senoue" },
+                    { t: "Lyrics", n: "Johnny Gioeli" },
+                    { t: "Vocals", n: "Johnny Gioeli" },
+                    { t: "Guitars & Programming", n: "Jun Senoue" },
+                    { t: "Bass", n: "Takeshi Taneda" },
+                    { t: "Drums", n: "Toru Kawamura" },
+                    { t: "Background Vocals", n: "Bob Burch & David Braun" }
+                ],
+                versions: [
+                    { 
+                        fanName: "Main ver.", 
+                        long: "This is the only version of Is It You, which was made for the Super Sonic Songs album.", 
+                        appearances: [ "The Best Of Crush 40 - Super Sonic Songs" ] 
+                    },
+                ]
+            },
         ],
         versionsBg: 'SSSBackground.png'
     },
@@ -2142,8 +2356,7 @@ Never ever end</p>
             { id: "joypolis15" },
             { id: "youmacon15" },
             { id: "sonic25th" },
-            { id: "sos16" },
-            { id: "jgmf18" }
+            { id: "sos16" }
         ],
         versionGroups: [
             {
